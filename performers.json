@@ -84,5 +84,30 @@
     "id": "caddo",
     "name": "Caddo",
     "tracked": false
+  },
+  {
+    "id": "bells-of-joy",
+    "name": "Bells of Joy",
+    "tracked": true
+  },
+  {
+    "id": "brother-joe-may",
+    "name": "Brother Joe May",
+    "tracked": false
+  },
+  {
+    "id": "gospel-harmonettes",
+    "name": "The Original Gospel Harmonettes",
+    "tracked": false
+  },
+  {
+    "id": "ethel-davenport",
+    "name": "Sister Ethel Davenport",
+    "tracked": false
+  },
+  {
+    "id": "neil-singers",
+    "name": "The Neil Singers",
+    "tracked": false
   }
 ]

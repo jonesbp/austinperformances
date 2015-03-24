@@ -33,5 +33,10 @@
     "name": "The Pleasure Dome",
     "address": "222 E. 6th St.",
     "city": "Austin"
+  },
+  {
+    "id": "doris-miller",
+    "name": "Doris Miller Auditorium",
+    "city": "Austin"
   }
 ]
