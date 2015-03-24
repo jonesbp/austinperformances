@@ -1,0 +1,88 @@
+[
+  {
+    "id": "afrocaravan",
+    "name": "The Afro Caravan",
+    "tracked": true
+  },
+  {
+    "id": "shivahead",
+    "name": "Shiva’s Head",
+    "tracked": false
+  },
+  {
+    "id": "strawberryshoemaker",
+    "name": "Strawberry Shoemaker",
+    "tracked": false
+  },
+  {
+    "id": "conjuntoaguilias",
+    "name": "Conjunto de Aguilias",
+    "tracked": false,
+    "note": "This spelling a typo? From aas002"
+  },
+  {
+    "id": "johnnysensations",
+    "name": "Johnny and the Sensations",
+    "tracked": false
+  },
+  {
+    "id": "shadowofdoubt",
+    "name": "The Shadow of Doubt",
+    "tracked": false
+  },
+  {
+    "id": "sethrye3",
+    "name": "Seth Rye III",
+    "tracked": false
+  },
+  {
+    "id": "allendamron",
+    "name": "Allen Damron",
+    "tracked": false
+  },
+  {
+    "id": "billmoss",
+    "name": "Bill Moss",
+    "tracked": false
+  },
+  {
+    "id": "scottstripling",
+    "name": "Scott Stripling",
+    "tracked": false
+  },
+  {
+    "id": "conqueroo",
+    "name": "The Conqueroo",
+    "tracked": false
+  },
+  {
+    "id": "golden-dawn",
+    "name": "The Golden Dawn",
+    "tracked": false
+  },
+  {
+    "id": "lightnin-hopkins",
+    "name": "Lightnin’ Hopkins",
+    "tracked": false
+  },
+  {
+    "id": "driving-drums",
+    "name": "Driving Drums",
+    "tracked": false
+  },
+  {
+    "id": "townes-van-zandt",
+    "name": "Townes Van Zandt",
+    "tracked": false
+  },
+  {
+    "id": "the-delta-boys",
+    "name": "The Delta Boys",
+    "tracked": false
+  },
+  {
+    "id": "caddo",
+    "name": "Caddo",
+    "tracked": false
+  }
+]

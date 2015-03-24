@@ -1,0 +1,37 @@
+[
+  {
+    "id": "vulcan",
+    "name": "Vulcan Gas Co.",
+    "address": "316 Congress",
+    "city": "Austin"
+  },
+  {
+    "id": "panam",
+    "name": "Pan American Hillside Theater",
+    "address": "2100 E. Third St.",
+    "city": "Austin"
+  },
+  {
+    "id": "project-y",
+    "name": "Project Y at HemisFair ‘68",
+    "city": "San Antonio"
+  },
+  {
+    "id": "chequeredflag",
+    "name": "Chequered Flag",
+    "address": "1411 Lavaca",
+    "city": "Austin"
+  },
+  {
+    "id": "11thdoor",
+    "name": "11th Door",
+    "address": "11th and Red River",
+    "city": "Austin"
+  },
+  {
+    "id": "pleasure-dome",
+    "name": "The Pleasure Dome",
+    "address": "222 E. 6th St.",
+    "city": "Austin"
+  }
+]

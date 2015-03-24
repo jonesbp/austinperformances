@@ -1,0 +1,145 @@
+[
+  {
+    "date": "1968-01-26",
+    "performers": [
+      "afrocaravan",
+      "shivahead",
+      "strawberryshoemaker"
+    ],
+    "venue": "vulcan",
+    "references": [
+      "aas001"
+    ]
+  },
+  {
+    "date": "1968-07-09",
+    "performers": [
+      "conjuntoaguilias",
+      "afrocaravan",
+      "johnnysensations"
+    ],
+    "venue": "panam",
+    "references": [
+      "aas002"
+    ]
+  },
+  {
+    "date": "1968-07-30",
+    "performers": [
+      "afrocaravan",
+      "shadowofdoubt",
+      "sethrye3"
+    ],
+    "venue": "panam",
+    "references": [
+      "aas003"
+    ]
+  },
+  {
+    "date": "1968-08-31",
+    "performers": [
+      "afrocaravan"
+    ],
+    "venue": "project-y",
+    "references": [
+      "aas004"
+    ]
+  },
+  {
+    "date": "1968-09-13",
+    "performers": [
+      "allendamron",
+      "afrocaravan"
+    ],
+    "venue": "chequeredflag",
+    "references": [
+      "aas005",
+      "aas006"
+    ]
+  },
+  {
+    "date": "1967-09-15",
+    "performers": [
+      "billmoss",
+      "afrocaravan"
+    ],
+    "venue": "11thdoor",
+    "references": [
+      "aas007"
+    ]
+  },
+  {
+    "date": "1967-09-16",
+    "performers": [
+      "billmoss",
+      "afrocaravan"
+    ],
+    "venue": "11thdoor",
+    "references": [
+      "aas007",
+      "aas008"
+    ]
+  },
+  {
+    "date": "1967-09-30",
+    "performers": [
+      "billmoss",
+      "scottstripling",
+      "afrocaravan"
+    ],
+    "venue": "11thdoor",
+    "references": [
+      "aas009"
+    ]
+  },
+  {
+    "date": "1967-10-01",
+    "performers": [
+      "billmoss",
+      "scottstripling",
+      "afrocaravan"
+    ],
+    "venue": "11thdoor",
+    "references": [
+      "aas009"
+    ]
+  },
+  {
+    "date": "1967-12-23",
+    "performers": [
+      "conqueroo",
+      "afrocaravan"
+    ],
+    "venue": "vulcan",
+    "references": [
+      "aas010"
+    ]
+  },
+  {
+    "date": "1967-12-31",
+    "performers": [
+      "golden-dawn",
+      "afrocaravan",
+      "lightnin-hopkins"
+    ],
+    "venue": "pleasure-dome",
+    "references": [
+      "aas011"
+    ]
+  },
+  {
+    "date": "1967-12-31",
+    "performers": [
+      "driving-drums",
+      "afrocaravan",
+      "billmoss",
+      "townes-van-zandt",
+      "the-delta-boys",
+      "caddo"
+    ],
+    "venue": "11thdoor",
+    "references": [
+      "aas012"
+    ]
+  }
+]
